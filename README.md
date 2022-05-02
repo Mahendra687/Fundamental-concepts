@@ -70,4 +70,4 @@ How much of a genome is "covered" by short reads? Are there regions that are not
 
 The breadth of coverage is the percentage of bases of a reference genome that are covered with a certain depth. For example: "90% of a genome is covered at 1X depth, and still 70% is covered at 5X depth.
 
-Further Study: [Link1](https://www.reneshbedre.com/blog/sequencing-coverage.html#enhance-your-skills-with-courses-on-genomics-and-bioinformatics) | [Link2](https://www.researchgate.net/deref/https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDNA_sequencing_theory) | [Link3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5237644/) | [Link4](https://en.wikipedia.org/wiki/K-mer)
+Further Study: [Link1](https://www.reneshbedre.com/blog/sequencing-coverage.html#enhance-your-skills-with-courses-on-genomics-and-bioinformatics) | [Link2](https://www.researchgate.net/deref/https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDNA_sequencing_theory) | [Link3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5237644/) | [Link4](https://en.wikipedia.org/wiki/K-mer) | [Link5](https://ucdavis-bioinformatics-training.github.io/2020-Genome_Assembly_Workshop/kmers/kmers)
