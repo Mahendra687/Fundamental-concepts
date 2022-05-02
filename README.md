@@ -69,3 +69,5 @@ Per-base coverage is the average number of times a base of a genome is sequenced
 How much of a genome is "covered" by short reads? Are there regions that are not covered, even not by a single read?
 
 The breadth of coverage is the percentage of bases of a reference genome that are covered with a certain depth. For example: "90% of a genome is covered at 1X depth, and still 70% is covered at 5X depth.
+
+Further Study: [Link1](https://www.reneshbedre.com/blog/sequencing-coverage.html#enhance-your-skills-with-courses-on-genomics-and-bioinformatics) | [Link2](https://www.researchgate.net/deref/https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDNA_sequencing_theory)
